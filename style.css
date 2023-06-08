@@ -46,7 +46,7 @@ section{
  }
 
  .form1{
-    background-image: url(images/top-banner.png);
+    background-image: url(top-banner.png);
     background-repeat: no-repeat;
  }
  p{
@@ -56,7 +56,7 @@ section{
     background-color: rgb(192, 212, 204);
     width:100%;
     margin-top: 50px;
-    background-image: url(images/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     
